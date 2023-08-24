@@ -19,10 +19,10 @@ also a checksum which must be placed at the end of the header or, again, the GBA
 will fail to load our games.
 
 Usage:
-    1. Download the code
-    2. Compile by running the make utility
-    3. Patch your .gba file with a command such as:
-        `gba-patcher mygame.gba`
-    4. Load the modified executable onto your GBA!
 
+1. Download the code
+2. Compile by running the make utility
+3. Patch your .gba file with a command such as:
+    `gba-patcher mygame.gba`
+4. Load the modified executable onto your GBA!
 
